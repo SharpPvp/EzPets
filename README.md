@@ -1,0 +1,2 @@
+# EzPets
+Ex Pets plugin
