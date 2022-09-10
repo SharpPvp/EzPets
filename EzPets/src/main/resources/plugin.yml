@@ -1,0 +1,12 @@
+name: EzPets
+version: '${project.version}'
+main: me.java.plugins.ezpets.EzPets
+authors: [SpreestDev]
+commands:
+    mypets:
+        usage: /<command>
+    givepet:
+        usage: /<command>
+    removepet:
+        usage: /<command>
+
